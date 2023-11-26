@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedolapoadegboye&label=Profile%20views&color=0e75b6&style=flat" alt="adedolapoadegboye" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **all projects.**
+- 👯 I’m looking to collaborate on **all projects**
 
 - 🤝 I’m looking for help with **landing my first job in web development**
 
