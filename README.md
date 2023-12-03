@@ -9,21 +9,21 @@
 
 - 🔭 I’m currently working on **improving my proficiency in fullstack web development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN and MEAN Stack**
 
-- 👯 I’m looking to collaborate on **all projects**
+- 👯 I’m looking to collaborate on **all fullstack projects**
 
-- 🤝 I’m looking for help with **landing my first job in web development**
+- 🤝 I’m looking for help with **landing my first job in web development as a full stack developer**
 
 - 👨‍💻 All of my projects are available at [Adedolapo.info](Adedolapo.info)
 
-- 💬 Ask me about **React, TailwindCSS, Bootstrap, Express, MongoDB**
+- 💬 Ask me about **React.js, React Native, Angular, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
 
 - 📫 How to reach me **Adedolapo.adegboye@alumni.ucalgary.ca**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adegboyeadedolapo](https://www.linkedin.com/in/adegboyeadedolapo)
 
-- ⚡ Fun fact **I developed interest in web development by building dashboards for IoT sensors**
+- ⚡ Fun fact **I developed interest in web development after building application dashboards for IoT sensors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
