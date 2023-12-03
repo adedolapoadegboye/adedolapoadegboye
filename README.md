@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **landing my first job in web development as a full stack developer**
 
-- 👨‍💻 All of my projects are available at [Adedolapo.info](Adedolapo.info)
+- 👨‍💻 Check out my website at [Adedolapo.info](Adedolapo.info)
 
 - 💬 Ask me about **React.js, React Native, Angular, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
 
