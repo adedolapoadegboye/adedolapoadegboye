@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
+<h3 align="center">Engineer-in-Training, Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedolapoadegboye&label=Profile%20views&color=0e75b6&style=flat" alt="adedolapoadegboye" /> </p>
 
@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adethedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/adethedeveloper?logo=twitter&style=for-the-badge" alt="adethedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on **improving my proficiency in fullstack web development**
+- 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **MERN and MEAN Stack**
-
-- 👯 I’m looking to collaborate on **all fullstack projects**
-
-- 🤝 I’m looking for help with **landing my first job in web development as a full stack developer**
+- 👯 I’m looking to collaborate on **fullstack projects**
 
 - 👨‍💻 Check out my website at [Adedolapo.info](Adedolapo.info)
 
