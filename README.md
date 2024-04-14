@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adethedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/adethedeveloper?logo=twitter&style=for-the-badge" alt="adethedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
