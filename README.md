@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 Check out my website at [Adedolapo.dev](Adedolapo.dev)
 
