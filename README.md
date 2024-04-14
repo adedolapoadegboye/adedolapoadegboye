@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
-- 👨‍💻 Check out my website at [Adedolapo.info](Adedolapo.dev)
+- 👨‍💻 Check out my website at [Adedolapo.dev](Adedolapo.dev)
 
-- 💬 Ask me about **React.js, React Native, Angular, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
+- 💬 Ask me about **React, React Native, Angular, Vue, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
 
 - 📫 How to reach me **Adedolapo.adegboye@alumni.ucalgary.ca**
 
