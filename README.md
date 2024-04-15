@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👨‍💻 Check out my website at [Adedolapo.dev](www.Adedolapo.dev)
+- 👨‍💻 Check out my website at [Adedolapo.dev](https://www.Adedolapo.dev)
 
 - 💬 Ask me about **React, React Native, Angular, Vue, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
 
