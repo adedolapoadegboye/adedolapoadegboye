@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade</h1>
-<h3 align="center">Engineer-in-Training and Full-Stack Developer</h3>
+<h3 align="center"> Systems and Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedolapoadegboye&label=Profile%20views&color=0e75b6&style=flat" alt="adedolapoadegboye" /> </p>
 
@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/adethedeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/adethedeveloper?logo=twitter&style=for-the-badge" alt="adethedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Full Stack Applications**
 
-- 👯 I’m looking to collaborate on **projects**
-
-- 👨‍💻 Check out my website at [Adedolapo.dev](https://www.Adedolapo.dev)
-
-- 💬 Ask me about **React, React Native, Angular, Vue, TailwindCSS, Bootstrap,  Nodejs, Nextjs, Express, MongoDB**
+- 👨‍💻 Check out my website at [adedolapo.dev](https://www.adedolapo.dev)
 
 - 📫 How to reach me **Adedolapo.adegboye@alumni.ucalgary.ca**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adegboyeadedolapo](https://www.linkedin.com/in/adegboyeadedolapo)
-
-- ⚡ Fun fact **I developed interest in web development after building application dashboards for IoT sensors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
