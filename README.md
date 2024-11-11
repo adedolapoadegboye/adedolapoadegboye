@@ -102,4 +102,4 @@ I'm a Systems and Software Engineer with a deep passion for **Global Navigation 
 ### 📫 How to Reach Me
 - Email: **Adedolapo.adegboye@alumni.ucalgary.ca**
 - Personal Website: [adedolapo.dev](https://www.adedolapo.dev)
-- LinkedIn: [Ade Dolapo](https://www.linkedin.com/in/adegboyeadedolapo)
+- LinkedIn: [Adedolapo Adegboye](https://www.linkedin.com/in/adegboyeadedolapo)
