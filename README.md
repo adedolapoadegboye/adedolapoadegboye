@@ -1,105 +1,90 @@
 <h1 align="center">Hi 👋, I'm Ade</h1>
-<h3 align="center">GNSS Systems & Software Engineer</h3>
+<h3 align="center">GNSS Software and Systems Engineer | Field Applications | Embedded Development | Sensor Fusion</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adedolapoadegboye&label=Profile%20views&color=0e75b6&style=flat" alt="adedolapoadegboye" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adedolapoadegboye&label=Profile%20views&color=0e75b6&style=flat" alt="adedolapoadegboye" />
+</p>
+
+---
 
 ### 👨‍💻 About Me
-I'm a Systems and Software Engineer with a deep passion for **Global Navigation Satellite Systems (GNSS)**. I specialize in the development of GNSS algorithms, embedded communication with GNSS modules, and testing support for GNSS-related technologies. My work spans across:
+I'm a **GNSS Systems & Software Engineer** passionate about **Positioning, Navigation, and Timing (PNT)** technologies.  
+I focus on **high-precision GNSS solutions, sensor fusion, and embedded system integration**, working at the intersection of hardware, software, and field applications.  
 
-- **Algorithm Development**: RTK (Real-Time Kinematic), DR (Dead Reckoning), PPP (Precise Point Positioning) enhancement.
-- **Embedded Development**: Interfacing GNSS modules with MCUs like STM32, Raspberry Pi, and more using C/C++, Python (Micropython).
-- **Hardware Design**: Building GNSS schematics for enhanced navigation systems.
-- **GNSS Tools Creation**: Designing tools for RTK, DR, and PPP evaluations.
+- **GNSS Expertise**: SPS, RTK, PPP, PPP-RTK, DR, AGNSS, SBAS, spoofing/jamming mitigation, SDR, NTRIP, and sensor fusion (EKF/UKF).  
+- **Embedded Systems**: Integration with MCUs, real-time C/C++/Python algorithm (Micropython) development, communication protocols (UART/I2C/SPI).  
+- **Hardware & System Design**: GNSS schematics, HIL/SIL testing, Spirent & LabSat simulation, IoT GNSS sensor design.  
+- **Software & Tools**: MATLAB/Simulink for GNSS algorithms, QGNSS, RTKLIB, u-center, post-processing apps, and open-source contributions.  
 
 ---
 
 ### 🔭 Current Focus
-- **High Precision GNSS**: Working on GNSS augmentation algorithms like RTK, DR, RTK-PPP, and AGNSS (Assisted GNSS).
-- **GNSS System Design**: Developing methodologies for GNSS RTK DR PPP evaluations and hardware design.
-- **Writing About GNSS**: Preparing to launch a blog discussing GNSS technologies and system designs in depth.
+- Developing **GNSS and fusion algorithms**.
+- Building **testing and simulation tools** to accelerate validation workflows.  
+- Exploring **sensor fusion** between GNSS, IMU/INS, and external sensors for robust positioning.  
+- Sharing insights on GNSS through documentation, training, and upcoming blogs.  
 
 ---
 
-### 🚀 Languages and Tools:
-#### Programming Languages
+### 🚀 Languages and Tools
+
+#### Programming
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c programming language" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 </p>
 
-
-#### Frameworks and Tools
+#### Frameworks, Tools & Cloud
 <p align="left">
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/STMicroelectronics_logo.svg" alt="STM32" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/STMicroelectronics_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
 </p>
 
-
-#### GNSS Specific Tools
-- **Python (Micropython)**: Embedded GNSS programming.
-- **MATLAB & Simulink**: GNSS algorithm simulations and validations.
-- **C/C++**: Low-level programming for GNSS modules on eval boards and host MCUs.
+- Databases: PostgreSQL, MySQL, MongoDB, Firestore, Redis  
+- Cloud: AWS, Azure, Firebase, DigitalOcean, Vercel, Netlify, Heroku  
 
 ---
 
-### 📈 GitHub Stats:
+### 🛠 GNSS Projects
+- [**L1 Position Algorithm**](https://github.com/adedolapoadegboye/L1_Position_Algorithm): C-based GNSS least-squares resolver using RTCM ephemeris & observation data.  
+- [**GNSS Tracker**](https://github.com/adedolapoadegboye/GNSS-Tracker): Multithreaded C app for NMEA parsing, logging, and live diagnostics with Quectel modules.  
+- [**NMEA Parser Logger**](https://github.com/adedolapoadegboye/NMEA-Parser-Logger): Real-time NMEA0183 log & parse tool.  
+- [**pynmea2 Contribution**](https://github.com/adedolapoadegboye/pynmea2): Added Quectel proprietary NMEA support.  
+- [**GNSS Metrics Web App**](http://gnssmetrics.com/): Full-stack platform for GNSS log analysis, error ellipse visualization, and satellite stats.  
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adedolapoadegboye&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adedolapoadegboye&show_icons=true&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adedolapoadegboye&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adedolapoadegboye&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedolapoadegboye&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedolapoadegboye&layout=compact&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/adethedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adethedeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adedolapoadegboye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedolapoadegboye" height="30" width="40" /></a>
-<a href="https://instagram.com/adethedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adethedeveloper" height="30" width="40" /></a>
+<a href="https://twitter.com/adethedeveloper" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adegboyeadedolapo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/adethedeveloper" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### 📫 How to Reach Me
-- Email: **Adedolapo.adegboye@alumni.ucalgary.ca**
-- Personal Website: [adedolapo.dev](https://www.adedolapo.dev)
-- LinkedIn: [Adedolapo Adegboye](https://www.linkedin.com/in/adegboyeadedolapo)
+- Email: **Adedolapo.adegboye@alumni.ucalgary.ca**  
+- Personal Website: [adedolapo.dev](https://www.adedolapo.dev)  
+- LinkedIn: [Adedolapo Adegboye](https://www.linkedin.com/in/adegboyeadedolapo)  
